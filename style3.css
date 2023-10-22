@@ -1,0 +1,97 @@
+.screen{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	background: white;
+	width: auto;
+	margin: 10px auto;
+}
+
+.header{
+    background-color: #483D8B;
+    color: white;
+	padding: 2px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+.photo {
+    border: 3px solid #483D8B;
+}
+ 
+.body{
+	height: 600px;
+}
+
+.sidebar{
+	background-color: aqua;
+	float: left;	
+	width: 20%;
+	height: 100%;
+    border-radius: 15px;
+    margin: 15px;
+}
+ 
+.sbtxt {
+    text-decoration: none;
+    width: auto;
+    text-align: left;
+    padding: 8px 16px;
+    display: block;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0;
+}
+
+.sbtxt:hover {
+    color:#000!important;
+    background-color:#f1f1f1!important;
+}
+
+.post{
+	background-color: aqua;
+	float: left;
+	height: 100%;   
+	width: 76%;	
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.postxt {
+    padding-left: 20px;
+}
+
+.batas{
+	clear: both;
+}
+
+.footer {
+	padding: 10px;
+    background-color: #483D8B;
+    color: white;
+    text-align: center;
+}
+
+ul li {
+    text-decoration: none;
+}
+
+.tbl {
+    border-collapse: collapse;
+    margin: 25px;
+    font-size: 14px;
+    font-family: sans-serif;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.15);
+}
+
+.tbl th, .tbl td {
+    padding: 10px 15px;
+    text-align: left;
+}
+tr:nth-child(odd) {
+    background: #f0f0f0;
+}
+
+tr:nth-child(even) {
+    background: white;
+}
