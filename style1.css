@@ -63,7 +63,8 @@
 }
  
 .batas {
-	clear: both;
+	float: left;
+	clear: right;
 }
 
 .footer {
