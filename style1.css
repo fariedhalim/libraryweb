@@ -27,7 +27,7 @@
 	background: aqua;
 	float: left;	
 	width: 20%;
-	height: 90%;
+	height: 80%;
 	border-radius: 15px;
 	margin: 15px;
 }
@@ -52,8 +52,8 @@
 .post {
 	background: aqua;
 	float: left;
-	width: 70%;
-	height: 90%;   	
+	width: 80%;
+	height: 80%;   	
 	border-radius: 15px;
 	margin: 15px;
 }
