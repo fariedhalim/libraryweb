@@ -27,33 +27,33 @@
 	background: aqua;
 	float: left;	
 	width: 20%;
-	height: 80%;
+	height: 95%;
 	border-radius: 15px;
 	margin: 15px;
 }
  
 .sbtxt {
-    text-decoration: none;
-    width: auto;
-    text-align: left;
-    padding: 8px 16px;
-    display: block;
-    border: none;
-    white-space: normal;
-    float: none;
-    outline: 0;
+	text-decoration: none;
+	width: auto;
+	text-align: left;
+	padding: 8px 16px;
+	display: block;
+	border: none;
+	white-space: normal;
+	float: none;
+	outline: 0;
 }
 
 .sbtxt:hover {
-    color:#000;
-    background-color:#f1f1f1;
+	color: #000;
+	background-color: #f1f1f1;
 }
  
 .post {
 	background: aqua;
 	float: left;
 	width: 80%;
-	height: 80%;   	
+	height: 95%;   	
 	border-radius: 15px;
 	margin: 15px;
 }
@@ -69,11 +69,11 @@
 
 .footer {
 	padding: 10px;
-    background-color: #483D8B;
-    color: white;
-    text-align: center;
+	background-color: #483D8B;
+	color: white;
+	text-align: center;
 }
 
 ul li {
-    text-decoration: none;
+	text-decoration: none;
 }
